@@ -28,6 +28,12 @@ If there are some errors you can find them in error field:
 geo.error;
 ```
 
+To get new geolocattion coordinates just type:
+
+```javascript
+geo.localize();
+```
+
 !Remember not all browsers supports geolocation!
 
 <h3>License</h3>
