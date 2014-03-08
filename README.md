@@ -6,7 +6,7 @@ Just use your meteorite and type:
 
 `mrt add Geolocation`
 
-You can use if in your non-meteor projects, just copy geoocation.js file.
+You can use it in your non-meteor projects, just copy geoocation.js file.
 
 <h3>How to use?</h3>
 
