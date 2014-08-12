@@ -13,7 +13,7 @@ You can use it in your non-meteor projects, just copy geoocation.js file.
 Firs create geolocation object (Geolocation class is singleton!):
 
 ```javascript
-var geo = Geolcation.getInstance();
+var geo = Golcation.getInstance();
 ```
 
 To access latitude and longitude use:
